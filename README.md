@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Zachary
-- 👀 I’m interested in Business Intelligence and Data Analysis
-- 🌱 I’m currently learning Python, RStats, and advanced sql to visualize data insights
-- 💞️ I’m looking to collaborate on SQL, visualization projects, REST API data projects
-- 📫 How to reach me smith.zr@yahoo.com
+- 👀 I am interested in how large language models can impact education and learning.
+- 🌱 I’m currently training the Zera Chat tutorbot model
+- 💞️ I’m looking to collaborate on education technology. machine learning, and ai projects
+- 📫 How to reach me zachary@zrsdigital.com
