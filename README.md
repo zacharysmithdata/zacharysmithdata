@@ -1,5 +1,2 @@
 - 👋 Hi, I’m Zachary
-- 👀 I am interested in how large language models can impact education and learning.
-- 🌱 I’m currently training the Zera Chat tutorbot model
-- 💞️ I’m looking to collaborate on education technology. machine learning, and ai projects
 - 📫 How to reach me zachary@zrsdigital.com
